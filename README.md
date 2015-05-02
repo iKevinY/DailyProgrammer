@@ -2,7 +2,11 @@
 
 My solutions to [/r/DailyProgrammer] challenges.
 
-# License
+## List of Solutions
+
+- #212 [Easy] [Rövarspråket](/rovarspraket)
+
+## License
 
 Code in this repository is licensed under the [MIT License].
 
