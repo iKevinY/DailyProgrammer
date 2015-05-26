@@ -1,0 +1,4 @@
+0xF5: "fleventy-five"
+0xB3: "bibbity-three"
+0xE4: "ebbity-four"
+0xBBBB: "bibbity-bee bitey bibbity-bee"
