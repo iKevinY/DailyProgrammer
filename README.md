@@ -5,6 +5,7 @@ My solutions to [/r/DailyProgrammer] challenges.
 ## List of Solutions
 
 - #212 [Easy] [Rövarspråket](/rovarspraket)
+- #213 [Easy] [Pronouncing Hex](/pronouncing-hex)
 
 ## License
 
