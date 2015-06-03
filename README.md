@@ -6,6 +6,7 @@ My solutions to [/r/DailyProgrammer] challenges.
 
 - #212 [Easy] [Rövarspråket](/rovarspraket)
 - #213 [Easy] [Pronouncing Hex](/pronouncing-hex)
+- #215 [Easy] [Sad Cycles](/sad-cycles)
 
 ## License
 
